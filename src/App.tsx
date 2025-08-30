@@ -430,6 +430,10 @@ const App = () => {
                   <h4 className="text-xl font-semibold text-indigo-600 mb-2">Master Of Computer Applications (MCA)</h4>
                   <p className="text-gray-600">CGPA: 7.20</p>
                 </div>
+                <div className="ml-4">
+                <div className="bg-gray-800 text-white px-4 py-2 rounded inline-block mb-4">
+                 May 2014 - June 2018
+                </div>
                 <div className="bg-white p-6 rounded-xl shadow-lg">
                   <h3 className="text-lg text-gray-600 mb-2"> Lalit Narayan Mithila University ,Bihar</h3>
                   <h4 className="text-xl font-semibold text-indigo-600 mb-2">Bachelor of Science(B.SC)</h4>
