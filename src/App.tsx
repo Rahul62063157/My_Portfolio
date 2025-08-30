@@ -423,7 +423,7 @@ const App = () => {
               
               <div className="ml-4">
                 <div className="bg-gray-800 text-white px-4 py-2 rounded inline-block mb-4">
-                  August 2023 - Present
+                  August 2023 - june 2025
                 </div>
                 <div className="bg-white p-6 rounded-xl shadow-lg">
                   <h3 className="text-lg text-gray-600 mb-2">Chandigarh University, Punjab</h3>
